@@ -1,9 +1,81 @@
-.container{
-    display: grid;
-    grid-template-columns: .5fr 1fr 1fr 1fr .5fr;
-    grid-template-rows: repeat(13, 1fr);
-    gap: 10px
+.container {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
+  grid-template-rows: repeat(13, 1fr);
+  gap: 10px;
 }
-.box1{
-    background: url();
+.box1 {
+  background: url(./images/1.jpeg);
+}
+.box2 {
+  background: url(./images/2.jpeg);
+}
+.box3 {
+  background: url(./images/3.jpeg);
+}
+.box4 {
+  background: url(./images/4.jpeg);
+}
+.box5 {
+  background: url(./images/5.jpeg);
+}
+.box6 {
+  background: url(./images/6.jpeg);
+}
+.box7 {
+  background: url(./images/7.jpeg);
+}
+.box8 {
+  background: url(./images/8.jpeg);
+}
+.box9 {
+  background: url(./images/9.jpeg);
+}
+.box10 {
+  background: url(./images/10.jpeg);
+}
+.box11 {
+  background: url(./images/11.jpeg);
+}
+.box12 {
+  background: url(./images/12.jpeg);
+}
+.box13 {
+  background: url(./images/13.jpeg);
+}
+.box14 {
+  background: url(./images/14.jpeg);
+}
+.box15 {
+  background: url(./images/15.jpeg);
+}
+.box16 {
+  background: url(./images/16.jpeg);
+}
+.box17 {
+  background: url(./images/17.jpeg);
+}
+.box18 {
+  background: url(./images/18.jpeg);
+}
+.box19 {
+  background: url(./images/19.jpeg);
+}
+.box20 {
+  background: url(./images/20.jpeg);
+}
+.box21 {
+  background: url(./images/21.jpeg);
+}
+.box22 {
+  background: url(./images/22.jpeg);
+}
+.box23 {
+  background: url(./images/23.jpeg);
+}
+.box24 {
+  background: url(./images/24.jpeg);
+}
+.box25 {
+  background: url(./images/25.jpeg);
 }
