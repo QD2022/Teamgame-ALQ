@@ -50,35 +50,35 @@
 }
 .box12 {
   background: url(./images/12.jpeg);
-  grid-area: /2//3;
+  grid-area: 6/2/9/3;
 }
 .box13 {
   background: url(./images/13.jpeg);
-  grid-area: /3//4;
+  grid-area: 5/3/8/4;
 }
 .box14 {
   background: url(./images/14.jpeg);
-  grid-area: /4//5;
+  grid-area: 6/4/9/5;
 }
 .box15 {
   background: url(./images/15.jpeg);
-  grid-area: /5//6;
+  grid-area: 7/5/10/6;
 }
 .box16 {
   background: url(./images/16.jpeg);
-  grid-area: auto;
+  grid-area: 10/1/13/2;
 }
 .box17 {
   background: url(./images/17.jpeg);
-  grid-area: auto;
+  grid-area: 9/2/13/3;
 }
 .box18 {
   background: url(./images/18.jpeg);
-  grid-area: auto;
+  grid-area: 8/3/12/4;
 }
 .box19 {
   background: url(./images/19.jpeg);
-  grid-area: auto;
+  grid-area: 7/4/11/5;
 }
 .box20 {
   background: url(./images/20.jpeg);
