@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+section {
+  display: flex;
+  background-color: rgb(222, 199, 172);
+  background-image: url(./img/kisspng-floral-design-flower-clip-art-5ae2a24ac61a01.5944212515248021228114.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  flex-wrap: wrap;
+}
+
+h1 {
+  width: 100%;
+}
+
+h1, h2 {
+  color: rgb(203, 96, 33);
+  font-size: 16rem;
+}
+
+section p {
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
+ol {
+  padding: 1rem;
+}
+
+ol li {
+  font-size: 2rem;
+  margin-left: 2.5rem;
+}
+
+.text {
+  width: 400px;
+}
+
+footer {
+  display: flex;
+  width: 100%;
+}
+
+nav a {
+  margin: 1rem;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  color: rgb(64, 64, 64);
+  background-color: rgb(238, 238, 238);
+  border-radius: 20px;
+  font-size: 2rem;
+}
+
+a:hover {
+  background-color: rgb(64, 64, 64);
+  color: rgb(238, 238, 238);
+  cursor: pointer;
+}
+
+footer .left {
+
+}
+
+footer .right {
+
+}
