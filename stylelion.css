@@ -46,23 +46,23 @@
 }
 .box11 {
   background: url(./images/11.jpeg);
-  grid-area: auto;
+  grid-area: 7/1/10/2;
 }
 .box12 {
   background: url(./images/12.jpeg);
-  grid-area: auto;
+  grid-area: /2//3;
 }
 .box13 {
   background: url(./images/13.jpeg);
-  grid-area: auto;
+  grid-area: /3//4;
 }
 .box14 {
   background: url(./images/14.jpeg);
-  grid-area: auto;
+  grid-area: /4//5;
 }
 .box15 {
   background: url(./images/15.jpeg);
-  grid-area: auto;
+  grid-area: /5//6;
 }
 .box16 {
   background: url(./images/16.jpeg);
